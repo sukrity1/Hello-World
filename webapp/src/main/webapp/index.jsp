@@ -1,2 +1,2 @@
-<h1> Hello, Ansible  </h1>
+<h1> Ansible  </h1>
 <h2> Deploying on Tomcat </h2>
